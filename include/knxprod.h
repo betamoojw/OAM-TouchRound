@@ -10,15 +10,15 @@
                                              
 #define MAIN_OpenKnxId 0xA6
 #define MAIN_ApplicationNumber 4
-#define MAIN_ApplicationVersion 8
+#define MAIN_ApplicationVersion 16
 #define MAIN_ParameterSize 15032
 #define MAIN_MaxKoNumber 1049
 #define MAIN_OrderNumber "OpenKnxTouchRound"
-#define BASE_ModuleVersion 19
-#define UCT_ModuleVersion 3
+#define BASE_ModuleVersion 20
+#define UCT_ModuleVersion 4
 #define BRI_ModuleVersion 1
 #define TCH_ModuleVersion 1
-#define LOG_ModuleVersion 54
+#define LOG_ModuleVersion 55
 #define FCB_ModuleVersion 5
 #define SENS_ModuleVersion 67
 // Parameter with single occurrence
