@@ -38,7 +38,7 @@ Weitere Touch-Displays können bei Bedarf angebunden werden.
 
 Die kompakte Steuerplatine kann optional vollständig in ein Standard-Schalterprogramm integriert werden. Hier als Beispiel mit Gira-Schalterprogramm in matt schwarz:
 
-<kbd>![Gira vorne](hardware/touchround-with-gira-front.jpg)</kbd>
+<kbd>![Schwarzer Rahmen](hardware/Bild1.png)</kbd>
 
 Dabei ist lediglich eine Einbautiefe von ca. 2 cm in einer Standard-60-mm-Unterputzdose erforderlich.
 
