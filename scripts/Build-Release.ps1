@@ -32,9 +32,9 @@ if (!$?) { exit 1 }
 
 # build firmware based on generated headerfile 
 
-# build firmware for RP2040
-lib/OGM-Common/scripts/setup/reusable/Build-Step.ps1 release_RP2040 firmware-TouchRound-RP2040-Legacy uf2
-if (!$?) { exit 1 }
+# # build firmware for RP2040
+# lib/OGM-Common/scripts/setup/reusable/Build-Step.ps1 release_RP2040 firmware-TouchRound-RP2040-Legacy uf2
+# if (!$?) { exit 1 }
 
 # build firmware for RP2350
 lib/OGM-Common/scripts/setup/reusable/Build-Step.ps1 release_RP2350 firmware-TouchRound-RP2350 uf2
