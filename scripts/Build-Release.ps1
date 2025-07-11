@@ -40,6 +40,8 @@ if (!$?) { exit 1 }
 lib/OGM-Common/scripts/setup/reusable/Build-Step.ps1 release_RP2350 firmware-TouchRound-RP2350 uf2
 if (!$?) { exit 1 }
 
+Remove-Item -Path release/OTA-Upload-Firmware-*.ps1
+
 # execute generic post-build steps
 lib/OGM-Common/scripts/setup/reusable/Build-Release-Postprocess.ps1 $args[0]
 if (!$?) { exit 1 }
